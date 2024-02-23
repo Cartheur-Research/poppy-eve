@@ -1,4 +1,4 @@
-# BOM
+## Poppy-eve Build-of-Materials
 
 For the head _eva_, you need the following material:
 
@@ -6,7 +6,7 @@ For the head _eva_, you need the following material:
 | :---: | :------------------------------------------------------------------------------------------------------------------ | :------: |
 |  1.1  | Raspberry Pi 4 module with its SD card                                                                              |    1     |
 |  1.2  | Power cable  using  a 12 V -> 6 V converter                                                                         |    1     |
-|  2.1  | 3.4 inch display 800x400                                                                                            |    1     |
+|  2.1  | 4.3 inch display 800x400                                                                                            |    1     |
 |  2.2  | 20 cm FPC 15PIN (Flexible Printed Circuits, opposite sides) cable to connect the display to the DSI port of the RPi |    1     |
 |   3   | Miniature RPi camera B0066                                                                                          |    1     |
 |   4   | Miniature button magnets                                                                                            |    4     |

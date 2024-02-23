@@ -1,4 +1,4 @@
-# Eva-Head  assembly procedure
+# Eve-Head (nu-david)  assembly procedure
 
 With [this bill of materials](../hardware/BOM.md), you should have all this material on the work bench:
 
